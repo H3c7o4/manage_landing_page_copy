@@ -24,8 +24,4 @@ To build once run...
 npm run build
 ```
 
-You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
-
-A little demo
-
-![video](https://www.loom.com/share/11fc60a23ac14ef886240ac24a55d128?sid=646f47b4-9a5e-40ef-b8fb-124150399c80)
+You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations.
