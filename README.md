@@ -27,4 +27,5 @@ npm run build
 You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
 
 A little demo
-<video width="630" height="300" src="https://www.loom.com/share/11fc60a23ac14ef886240ac24a55d128?sid=646f47b4-9a5e-40ef-b8fb-124150399c80"></video>
+
+![video](https://www.loom.com/share/11fc60a23ac14ef886240ac24a55d128?sid=646f47b4-9a5e-40ef-b8fb-124150399c80)
